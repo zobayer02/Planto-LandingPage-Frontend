@@ -18,14 +18,15 @@ Welcome to "Planto", a project dedicated to the sale and decoration of plants. T
 
 ```
 Planto-Landing-Page/
-├── index.html       # Main HTML file
-├── styles/          # Folder for CSS files
-│   └── style.css    # Main stylesheet
-├── scripts/         # Folder for JavaScript files (if any)
-├── assets/          # Folder for images and other assets
-│   ├── images/      # Plant images
-│   └── icons/       # Decorative icons
-└── README.md        # Project documentation
+├── index.html       
+├── styles/          
+│   └── style.css    
+├── scripts/
+    └── script.js         
+├── assets/         
+│   ├── images/      
+│   └── icons/       
+└── README.md       
 ```
 
 💡 How to Use
